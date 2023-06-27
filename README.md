@@ -1,4 +1,4 @@
-# Simpson-Book
+# SimpsonBook
 
 ## Used in This Project
 
